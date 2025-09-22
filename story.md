@@ -16,4 +16,6 @@
 
 # Szigeti Balázs nem tudta hogy mit kezdjen ezzel az információval.
 
-# Miután rájött erre az információra elkezdett utána keresni a dolgoknak hogy biztos hogz igaz-e?
+# Miután rájött erre az információra elkezdett utána keresni a dolgoknak hogy biztos hogy igaz-e.
+
+# Egy nap úgy döntött hogy a tanitási órák után bent marad a suliban, megfigyelni az igazságot.
