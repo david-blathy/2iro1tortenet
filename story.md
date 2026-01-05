@@ -27,3 +27,5 @@
 # Elhagyta a raktárat és elkezdett keresgélni az iskola területén.
 
 # Körbe Nézett az összes tanteremben, hátha valamelyikbe beköltozött a esténként, de egyikbe se találta meg, ezért elindult az igazgatói felé.
+
+# A kulcslyukon át meglátta, hogy az igazgató egy összetolt székekből és takarókból álló fekhelyen ül, és halkan telefonál.
